@@ -1,0 +1,23 @@
+{
+  "name": "ajs-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvgeniyPryanichnikov/ajs-node.js.git"
+  },
+  "author": "EvgeniyPryanichnikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvgeniyPryanichnikov/ajs-node.js/issues"
+  },
+  "homepage": "https://github.com/EvgeniyPryanichnikov/ajs-node.js#readme",
+  "dependencies": {
+    "@evgeniypryanichnikov/ajs-platforms": "^1.0.0"
+  }
+}
